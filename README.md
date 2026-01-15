@@ -1,5 +1,7 @@
-# Master-Project 1 : Random Forest and XGBoost Algorithm for Earthquake Analysis and Prediction
-# Master Project 2: Tsunami Prediction and Analysis Using XGBoost and Naive Bayes Algorithm
+# Master Projects
+
+## Master-Project 1 : Random Forest and XGBoost Algorithm for Earthquake Analysis and Prediction
+## Master Project 2: Tsunami Prediction and Analysis Using XGBoost and Naive Bayes Algorithm
 
 This project focuses on predicting earthquake and tsunami-generating earthquakes using
 machine learning techniques, specifically **XGBoost** and **Naïve Bayes**.
